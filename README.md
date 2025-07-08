@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canakindev/)](https://www.linkedin.com/in/canakindev/)
 
 
-[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://medium.com/@canakindev)
-[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@canakindev)
-[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat-square)](https://medium.com/@canakindev)
+[![LinkedIn Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@canakindev)
+[![Medium Badge](https://img.shields.io/badge/LinkedIn-000?logo=LinkedIn&logoColor=fff&style=flat)](https://www.linkedin.com/in/canakindev/)
