@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/Medium-Blog-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@canakindev)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://medium.com/@canakindev)
+[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat-square)](https://medium.com/@canakindev)
