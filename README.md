@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canakindev/)](https://www.linkedin.com/in/canakindev/)
+
 
 [![Medium Badge](https://img.shields.io/badge/Medium-Blog-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@canakindev)
 
+[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://medium.com/@canakindev)
